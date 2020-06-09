@@ -1,1 +1,1 @@
-{\rtf1}
+console.log("hi");
