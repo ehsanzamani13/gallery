@@ -22,3 +22,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/.vs/GalleryVS/FileContentIndex
+/.vs/slnx.sqlite
+/.gitignore
